@@ -9,7 +9,7 @@ function App() {
     <div className='container'>
       <h2> Ranking de especialidades</h2>
 
-      <div className='teste'>
+      <div>
 
      
      
